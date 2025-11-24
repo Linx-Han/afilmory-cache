@@ -1,0 +1,50 @@
+{
+  "version": "v8",
+  "data": [
+    {
+      "id": "IMG_0079",
+      "title": "IMG 0079",
+      "description": "",
+      "dateTaken": "2022-06-12T14:08:34.000Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_0079.jpg",
+      "thumbnailUrl": "/thumbnails/IMG_0079.jpg",
+      "thumbHash": "13f8090480b996a7f97897bd779893f20c47ad",
+      "width": 3510,
+      "height": 2165,
+      "aspectRatio": 1.6212471131639723,
+      "s3Key": "IMG_0079.jpg",
+      "lastModified": "2025-11-24T06:52:36.919Z",
+      "size": 2050082,
+      "digest": "fec7477193d694b27d2d06910570a40e5492d91487041a998ad051dc16d74a1a",
+      "exif": {
+        "DateTimeOriginal": "2022-06-13T00:08:34+10:00",
+        "OffsetTime": "+10:00",
+        "OffsetTimeOriginal": "+10:00",
+        "OffsetTimeDigitized": "+10:00",
+        "ImageWidth": 3936,
+        "ImageHeight": 2623,
+        "tz": "UTC+10",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "MaxApertureValue": 2.8,
+        "LightSource": "Unknown",
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard",
+        "WhiteBalance": "Auto",
+        "Rating": 0
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 30,
+        "contrast": 52,
+        "shadowRatio": 0.71,
+        "highlightRatio": 0.16
+      },
+      "location": null,
+      "isHDR": false
+    }
+  ],
+  "cameras": [],
+  "lenses": []
+}

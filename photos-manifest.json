@@ -271,6 +271,47 @@
       "isHDR": false
     },
     {
+      "id": "IMG_7250",
+      "title": "IMG 7250",
+      "description": "",
+      "dateTaken": "2025-10-19T01:34:34.000Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_7250.JPG",
+      "thumbnailUrl": "/thumbnails/IMG_7250.jpg",
+      "thumbHash": "65180e0e827a7797908988738627897787663865506207",
+      "width": 4257,
+      "height": 3728,
+      "aspectRatio": 1.1418991416309012,
+      "s3Key": "IMG_7250.JPG",
+      "lastModified": "2025-11-25T08:39:14.545Z",
+      "size": 13916873,
+      "digest": "8065784e24117fefa71e74b9e2b01518f65fa554e8e0f35c0a0ac0a78dea1ef3",
+      "exif": {
+        "DateTimeOriginal": "2025-10-19T12:34:34+11:00",
+        "ImageWidth": 4257,
+        "ImageHeight": 3728,
+        "tz": "Australia/Melbourne",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard",
+        "GPSAltitude": 0,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": -37.764994,
+        "GPSLatitudeRef": "S",
+        "GPSLongitude": 144.961617,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 59,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.53
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
       "id": "IMG_6381",
       "title": "IMG 6381",
       "description": "",

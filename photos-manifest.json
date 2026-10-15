@@ -2,46 +2,6 @@
   "version": "v8",
   "data": [
     {
-      "id": "IG-edited",
-      "title": "IG edited",
-      "description": "",
-      "dateTaken": "2026-12-28T06:42:19.000Z",
-      "tags": [],
-      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IG-edited.JPG",
-      "thumbnailUrl": "/thumbnails/IG-edited.jpg",
-      "thumbHash": "ddf7110d020878857a37877888888877c85e7ffcf4",
-      "width": 1440,
-      "height": 1920,
-      "aspectRatio": 0.75,
-      "s3Key": "IG-edited.JPG",
-      "lastModified": "2026-10-15T12:15:58.968Z",
-      "size": 277644,
-      "digest": "2fd00e4e45ccbf8a06d080f7ac742a4c97c63ed3ef1684075964fdc898c72677",
-      "exif": {
-        "DateTimeOriginal": "2026-12-28T14:42:19+08:00",
-        "ImageWidth": 1440,
-        "ImageHeight": 1920,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "Software": "Instagram",
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 34.75222,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 113.68116,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 45,
-        "contrast": 56,
-        "shadowRatio": 0.54,
-        "highlightRatio": 0.35
-      },
-      "location": null,
-      "isHDR": false
-    },
-    {
       "id": "会更好的",
       "title": "会更好的",
       "description": "",
@@ -746,6 +706,46 @@
         "contrast": 52,
         "shadowRatio": 0.31,
         "highlightRatio": 0.38
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "IG-win",
+      "title": "IG win",
+      "description": "",
+      "dateTaken": "2026-02-28T06:42:19.000Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IG-win.JPG",
+      "thumbnailUrl": "/thumbnails/IG-win.jpg",
+      "thumbHash": "ddf7110d020878857a37877888888877c85e7ffcf4",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "IG-win.JPG",
+      "lastModified": "2026-10-15T12:24:21.059Z",
+      "size": 277644,
+      "digest": "b6b3afb5bbce5e4d2a0ccb075acc3f3871f19d2ca185876f5450c1d85714c87a",
+      "exif": {
+        "DateTimeOriginal": "2026-02-28T14:42:19+08:00",
+        "ImageWidth": 1440,
+        "ImageHeight": 1920,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Software": "Instagram",
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 34.75222,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 113.68116,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 56,
+        "shadowRatio": 0.54,
+        "highlightRatio": 0.35
       },
       "location": null,
       "isHDR": false

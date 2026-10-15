@@ -138,6 +138,38 @@
       "isHDR": false
     },
     {
+      "id": "会更好的",
+      "title": "会更好的",
+      "description": "",
+      "dateTaken": "2026-10-10T07:40:36.000Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/会更好的.jpg",
+      "thumbnailUrl": "/thumbnails/会更好的.jpg",
+      "thumbHash": "fc07020600e4cda76659d839369469880637225b10069a",
+      "width": 1206,
+      "height": 1349,
+      "aspectRatio": 0.8939955522609341,
+      "s3Key": "会更好的.jpg",
+      "lastModified": "2026-10-15T08:55:03.462Z",
+      "size": 112847,
+      "digest": "f6e718b09d634ebd530dbbd0123f4f11d3756fbcafcafc653432353ac1cd8667",
+      "exif": {
+        "DateTimeOriginal": "2026-10-10T07:40:36",
+        "ImageWidth": 1206,
+        "ImageHeight": 1349,
+        "Orientation": 1
+      },
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 96,
+        "contrast": 24,
+        "shadowRatio": 0.02,
+        "highlightRatio": 0.97
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
       "id": "IMG_0127",
       "title": "IMG 0127",
       "description": "",

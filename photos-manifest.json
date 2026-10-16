@@ -2223,40 +2223,6 @@
       "isHDR": false
     },
     {
-      "id": "Fish N Chip at Lake Tekapo",
-      "title": "Fish N Chip at Lake Tekapo",
-      "description": "",
-      "dateTaken": "2024-07-24T12:45:00.000Z",
-      "tags": [],
-      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/Fish N Chip at Lake Tekapo.JPG",
-      "thumbnailUrl": "/thumbnails/Fish N Chip at Lake Tekapo.jpg",
-      "thumbHash": "65180e1482f88766867d7876867f9976809507",
-      "width": 2532,
-      "height": 1495,
-      "aspectRatio": 1.6936454849498328,
-      "s3Key": "Fish N Chip at Lake Tekapo.JPG",
-      "lastModified": "2026-10-16T14:58:11.418Z",
-      "size": 748992,
-      "digest": "77b4bcd16147100f10e2eb49278d24f1dd88349af56a93066929be776fb8e539",
-      "exif": {
-        "DateTimeOriginal": "2024-07-24T12:45:00",
-        "ImageWidth": 2532,
-        "ImageHeight": 1495,
-        "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "SceneCaptureType": "Standard"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 60,
-        "contrast": 58,
-        "shadowRatio": 0.24,
-        "highlightRatio": 0.57
-      },
-      "location": null,
-      "isHDR": false
-    },
-    {
       "id": "IMG_1503",
       "title": "IMG 1503",
       "description": "",
@@ -2322,6 +2288,46 @@
         "contrast": 47,
         "shadowRatio": 0.34,
         "highlightRatio": 0.19
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "Fish N Chips at Lake Tekapo",
+      "title": "Fish N Chips at Lake Tekapo",
+      "description": "",
+      "dateTaken": "2024-07-24T00:45:00.000Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/Fish N Chips at Lake Tekapo.JPG",
+      "thumbnailUrl": "/thumbnails/Fish N Chips at Lake Tekapo.jpg",
+      "thumbHash": "65180e1482f88766867d7876867f9976809507",
+      "width": 2532,
+      "height": 1495,
+      "aspectRatio": 1.6936454849498328,
+      "s3Key": "Fish N Chips at Lake Tekapo.JPG",
+      "lastModified": "2026-10-16T15:04:45.021Z",
+      "size": 749872,
+      "digest": "16c1875175ec4aed8ba47c99c2d768b5e951a4adb1a8b226f1e00e8fdfc66886",
+      "exif": {
+        "DateTimeOriginal": "2024-07-24T12:45:00+12:00",
+        "ImageWidth": 2532,
+        "ImageHeight": 1495,
+        "tz": "Pacific/Auckland",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": -44.001462,
+        "GPSLatitudeRef": "S",
+        "GPSLongitude": 170.472506,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 58,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.57
       },
       "location": null,
       "isHDR": false

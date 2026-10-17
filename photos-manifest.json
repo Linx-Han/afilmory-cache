@@ -1910,7 +1910,7 @@
       "height": 4032,
       "aspectRatio": 0.75,
       "s3Key": "IMG_5654.JPG",
-      "lastModified": "2026-10-16T14:22:03.955Z",
+      "lastModified": "2026-10-17T07:22:40.317Z",
       "size": 2545224,
       "digest": "040517715b009973d4293ee2b31c7497df519958ad719cc12894c7c55345fe9c",
       "exif": {
@@ -1968,6 +1968,11 @@
         "highlightRatio": 0.06
       },
       "location": null,
+      "video": {
+        "type": "live-photo",
+        "videoUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_5654.mov",
+        "s3Key": "IMG_5654.mov"
+      },
       "isHDR": true
     },
     {

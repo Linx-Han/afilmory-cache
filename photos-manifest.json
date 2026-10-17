@@ -537,7 +537,7 @@
       "height": 3672,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "🎉.JPG",
-      "lastModified": "2026-10-15T08:29:38.821Z",
+      "lastModified": "2026-10-17T07:33:00.498Z",
       "size": 4397496,
       "digest": "891e1d23b42037ec8be3168d99280325ff22db7b31c99bc84474f468c697f904",
       "exif": {
@@ -595,6 +595,11 @@
         "highlightRatio": 0.22
       },
       "location": null,
+      "video": {
+        "type": "live-photo",
+        "videoUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/🎉.mov",
+        "s3Key": "🎉.mov"
+      },
       "isHDR": true
     },
     {

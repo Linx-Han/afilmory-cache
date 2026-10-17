@@ -1765,7 +1765,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "IMG_6142-2.JPG",
-      "lastModified": "2026-10-15T15:51:01.057Z",
+      "lastModified": "2026-10-17T07:27:48.016Z",
       "size": 9684229,
       "digest": "15f953dafefb6dd83cac44dbb52dc776e36a947f7b1bc334079f10983769dbe1",
       "exif": {
@@ -1820,6 +1820,11 @@
         "highlightRatio": 0.03
       },
       "location": null,
+      "video": {
+        "type": "live-photo",
+        "videoUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_6142-2.MOV",
+        "s3Key": "IMG_6142-2.MOV"
+      },
       "isHDR": false
     },
     {

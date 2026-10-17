@@ -229,24 +229,24 @@
       "isHDR": false
     },
     {
-      "id": "IMG_9692_85b2ebda",
+      "id": "IMG_MC_59173ec3",
       "format": "JPG",
-      "title": "IMG 9692",
+      "title": "IMG MC",
       "description": "",
-      "dateTaken": "2026-07-26T05:14:00.000Z",
+      "dateTaken": "2026-07-26T05:14:00.233Z",
       "tags": [],
-      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_9692.JPG",
-      "thumbnailUrl": "/thumbnails/IMG_9692_85b2ebda.jpg",
-      "thumbHash": "23f7090d0049436f77b88799889767680785f65966",
-      "width": 4284,
-      "height": 5712,
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_MC.JPG",
+      "thumbnailUrl": "/thumbnails/IMG_MC_59173ec3.jpg",
+      "thumbHash": "23f7090d004a436f67c887a9789877690a86f76976",
+      "width": 3981,
+      "height": 5308,
       "aspectRatio": 0.75,
-      "s3Key": "IMG_9692.JPG",
-      "lastModified": "2026-10-15T12:19:32.144Z",
-      "size": 4065101,
-      "digest": "686fd80011020565097ab933b58b1596566de01f1a33601781e2c23776ac6443",
+      "s3Key": "IMG_MC.JPG",
+      "lastModified": "2026-10-17T06:55:30.027Z",
+      "size": 4761645,
+      "digest": "49aef68ec7b5c1b0dcdad7e0687029b3a902d6e7443398629f2a277ebc51f1af",
       "exif": {
-        "DateTimeOriginal": "2026-07-26T15:14:00+10:00",
+        "DateTimeOriginal": "2026-07-26T15:14:00.233+10:00",
         "OffsetTime": "+10:00",
         "OffsetTimeOriginal": "+10:00",
         "OffsetTimeDigitized": "+10:00",
@@ -254,7 +254,7 @@
         "ImageHeight": 4284,
         "tz": "UTC+10",
         "tzSource": "OffsetTimeOriginal",
-        "Orientation": 6,
+        "Orientation": 1,
         "Make": "Apple",
         "Model": "iPhone 17 Pro",
         "Software": "26.5.2",
@@ -282,7 +282,7 @@
         "ShutterSpeed": "1/518",
         "LightValue": 13,
         "GPSAltitude": 19.71884273,
-        "GPSAltitudeRef": 0,
+        "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": -37.808919,
         "GPSLatitudeRef": "S",
         "GPSLongitude": 144.962631,
@@ -294,9 +294,9 @@
       "regions": [],
       "toneAnalysis": {
         "toneType": "normal",
-        "brightness": 53,
-        "contrast": 46,
-        "shadowRatio": 0.22,
+        "brightness": 54,
+        "contrast": 47,
+        "shadowRatio": 0.21,
         "highlightRatio": 0.28
       },
       "location": null,
@@ -669,6 +669,116 @@
         "highlightRatio": 0.21
       },
       "location": null,
+      "isHDR": true
+    },
+    {
+      "id": "IMG_8713_986fb8e3",
+      "format": "JPG",
+      "title": "IMG 8713",
+      "description": "",
+      "dateTaken": "2026-04-21T23:04:11.700Z",
+      "tags": [],
+      "originalUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_8713.JPG",
+      "thumbnailUrl": "/thumbnails/IMG_8713_986fb8e3.jpg",
+      "thumbHash": "dd490a150498786f8787895786957867687fa27608",
+      "width": 4284,
+      "height": 5712,
+      "aspectRatio": 0.75,
+      "s3Key": "IMG_8713.JPG",
+      "lastModified": "2026-10-17T07:02:12.608Z",
+      "size": 4091062,
+      "digest": "ed03a0def586c86b7a8dd4e9ab8b61957b11f743618f84c59ff3234b29b7f88b",
+      "exif": {
+        "DateTimeOriginal": "2026-04-22T09:04:11.700+10:00",
+        "OffsetTime": "+10:00",
+        "OffsetTimeOriginal": "+10:00",
+        "OffsetTimeDigitized": "+10:00",
+        "ImageWidth": 5712,
+        "ImageHeight": 4284,
+        "tz": "UTC+10",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "Apple",
+        "Model": "iPhone 17 Pro",
+        "Software": "26.4.1",
+        "ExposureTime": "1/209",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 125,
+        "ShutterSpeedValue": "1/209",
+        "ApertureValue": 1.8,
+        "BrightnessValue": 4.433263499,
+        "ExposureCompensation": 0,
+        "Flash": "Off, Did not fire",
+        "FocalLength": "6.8 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "35 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "Apple",
+        "LensModel": "iPhone 17 Pro back triple camera 6.765mm f/1.78",
+        "MeteringMode": "Spot",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 5.2,
+        "ShutterSpeed": "1/209",
+        "LightValue": 9,
+        "GPSAltitude": 35.6129972,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": -37.802381,
+        "GPSLatitudeRef": "S",
+        "GPSLongitude": 144.962875,
+        "GPSLongitudeRef": "E",
+        "MPImageType": "Undefined",
+        "UniformResourceName": "urn:iso:std:iso:ts:21496:-1",
+        "RegionInfo": {
+          "AppliedToDimensions": {
+            "H": 4284,
+            "Unit": "pixel",
+            "W": 5712
+          },
+          "RegionList": [
+            {
+              "Area": {
+                "H": "0.14825972313777191",
+                "Unit": "normalized",
+                "W": "0.16712605042016804",
+                "X": "0.67550766188828471",
+                "Y": "0.74531114040870139"
+              },
+              "Extensions": "",
+              "Type": "Focus"
+            }
+          ]
+        }
+      },
+      "keywords": [],
+      "regions": [
+        {
+          "name": "",
+          "type": "Focus",
+          "area": null,
+          "appliedToDimensions": {
+            "width": 5712,
+            "height": 4284,
+            "unit": "pixel"
+          }
+        }
+      ],
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 43,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.25
+      },
+      "location": null,
+      "video": {
+        "type": "live-photo",
+        "videoUrl": "https://pub-9a7d99980a58454eaec2f91146d13b6c.r2.dev/IMG_8713.MOV",
+        "s3Key": "IMG_8713.MOV"
+      },
       "isHDR": true
     },
     {
